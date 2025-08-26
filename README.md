@@ -12,6 +12,6 @@
 
 [[연구 배경]](/History/Progress_report/overview.md)
 
-## 🗓️개발 일정
+## 🗓️개발 일정 250812~250824
 
 ## 개발 과정
