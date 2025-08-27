@@ -1,5 +1,5 @@
-git pull
+git pull --rebase origin main
 git add .
 git commit -m "update"
-git push
-
+git pull --rebase origin main
+git push origin main
