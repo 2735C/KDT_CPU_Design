@@ -26,8 +26,8 @@
     <td align="center"> C </td>
   </tr>
   <tr>
-    <td colspan="2">Row 3 - Col 1~2 (merged)</td>
-    <td align="center"> <img src="/History/img/img79.png" width=400>  </td>
+    <td colspan="2"><img src="/History/img/img79.png" width=200>  </td>
+    <td align="center"> <img src="/History/img/img79.png" width=200>  </td>
     <td align="center"> <img src="/History/img/img79.png" width=400>  </td>
     <td align="center"> <img src="/History/img/img79.png" width=400>  </td>
     <td align="center"> <img src="/History/img/img79.png" width=400>  </td>
