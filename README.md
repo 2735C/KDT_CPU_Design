@@ -249,8 +249,15 @@ void swap(int *pA, int *pB)
 
 ## Trouble Shooting 
 
+:one:
 
-#### P. B-type 실행 시 ROM에 넣은 명령어가 출력되지 않음  trouble_shooting3.png
+
+
+
+:two: 
+
+
+#### P. B-type 실행 시 ROM에 넣은 명령어가 출력되지 않음 
 
 <img src="/History/img/trouble_shooting3.png" width=1000>|
 --|
