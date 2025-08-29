@@ -228,9 +228,6 @@ void swap(int *pA, int *pB)
 <img src="/History/img/git_bubble2.png" width=1000>|
 
 
-> #### 초기화 조건
-
-
 > #### Swap 함수: Sort :arrow_right: Swap, Swap :arrow_right: Sort
 
 <img src="/History/img/git_bubble4.png" width=1000>|
@@ -238,6 +235,13 @@ void swap(int *pA, int *pB)
 <img src="/History/img/git_bubble5.png" width=1000>|
 <img src="/History/img/git_bubble6.png" width=1000>|
 
+
+
+> #### Sort 함수: Main :arrow_right:  Sort, Sort :arrow_right: Main
+
+<img src="/History/img/git_bubble3.png" width=1000>|
+--|
+<img src="/History/img/git_bubble7.png" width=1000>|
 
 
 
