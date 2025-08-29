@@ -221,11 +221,24 @@ void swap(int *pA, int *pB)
 <img src="/History/img/git_bubble13_assembly.png" width=1000>|<img src="/History/img/git_bubble16_assembly.png" width=1000>|<img src="/History/img/git_bubble15_assembly.png" width=1000>|
 
 
-
+> #### 초기화 조건
 
 <img src="/History/img/git_bubble1.png" width=1000>|
 --|
 <img src="/History/img/git_bubble2.png" width=1000>|
+
+
+> #### 초기화 조건
+
+
+> #### Swap 함수: Sort :arrow_right: Swap, Swap :arrow_right: Sort
+
+<img src="/History/img/git_bubble4.png" width=1000>|
+--|
+<img src="/History/img/git_bubble5.png" width=1000>|
+<img src="/History/img/git_bubble6.png" width=1000>|
+
+
 
 
 ## Trouble Shooting 
