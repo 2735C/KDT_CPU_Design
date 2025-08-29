@@ -31,7 +31,7 @@
     <td align="center"> <img src="/History/img/img3.png" width=200>  </td>
     <td align="center"> <img src="/History/img/img6.jpg" width=100>  </td>
     <td align="center"> <img src="/History/img/img4.png" width=300>  </td>
-    <td align="center"> <img src="/History/img/img5.png" width=50>  </td>
+    <td align="center"> <img src="/History/img/img5.png" width=100>  </td>
   </tr>
 </table>
 
