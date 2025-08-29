@@ -26,12 +26,12 @@
     <td align="center"> C </td>
   </tr>
   <tr>
-    <td colspan="2"><img src="/History/img/img1.png" width=200>  </td>
+    <td colspan="2"><img src="/History/img/img1.png" width=300>  </td>
     <td align="center"> <img src="/History/img/img2.png" width=200>  </td>
-    <td align="center"> <img src="/History/img/img3.png" width=400>  </td>
-    <td align="center"> <img src="/History/img/img6.png" width=400>  </td>
-    <td align="center"> <img src="/History/img/img5.png" width=400>  </td>
-    <td align="center"> <img src="/History/img/img4.png" width=400>  </td>
+    <td align="center"> <img src="/History/img/img3.png" width=200>  </td>
+    <td align="center"> <img src="/History/img/img6.jpg" width=100>  </td>
+    <td align="center"> <img src="/History/img/img5.png" width=100>  </td>
+    <td align="center"> <img src="/History/img/img4.png" width=300>  </td>
   </tr>
 </table>
 
