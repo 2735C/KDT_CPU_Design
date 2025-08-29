@@ -46,13 +46,26 @@
 
 > Multi-Cycle로 진행한 이유
 
-### (1) 블록도
+### (1) ISA & BlockDiagram
+
+<img src="/History/img/ISA.png" width=600>|
+--|
 
 <img src="/History/img/img7.png" width=600>|
 --|
 
 
+|R-Type|L-Type|I-Type|
+--|--|--|
+<img src="/History/img/r-block.png" width=600>|<img src="/History/img/l-block.png" width=600>|<img src="/History/img/i-block.png" width=600>|
+|S-Type|B-Type|LU-Type|
+<img src="/History/img/s-block.png" width=600>|<img src="/History/img/b-block.png" width=600>|<img src="/History/img/lu-block.png" width=600>|
+|AU-Type|J-Type|JL-Type|
+<img src="/History/img/au-block.png" width=600>|<img src="/History/img/j-block.png" width=600>|<img src="/History/img/jl-block.png" width=600>|
+
+
 ### (2) Verification
+
 
 
 > ### R-type
@@ -196,21 +209,21 @@ int main() {
 
 void sort(int *pData, int size) 
 {
-    for(int i=0;i<size;i++){
-        for(int j=0;j<size-i-1;j++){
-            if(pData[j]>pData[j+1]){
-                swap(&pData[j], &pData[j+1]);
-            }
-        }
-    }
+  for(int i=0;i<size;i++){
+      for(int j=0;j<size-i-1;j++){
+          if(pData[j]>pData[j+1]){
+              swap(&pData[j], &pData[j+1]);
+          }
+      }
+  }
 }
 
 void swap(int *pA, int *pB)
 {
-    int temp;
-    temp = *pA;
-    *pA = *pB;
-    *pB = temp;
+  int temp;
+  temp = *pA;
+  *pA = *pB;
+  *pB = temp;
 }
 ```
 
@@ -218,7 +231,7 @@ void swap(int *pA, int *pB)
 
 초기화 조건 | 재정렬(Swap) 조건 | Swap function|
 --|--|--
-<img src="/History/img/git_bubble13_assembly.png" width=1000>|<img src="/History/img/git_bubble16_assembly.png" width=1000>|<img src="/History/img/git_bubble15_assembly.png" width=1000>|
+<img src="/History/img/git_bubble13_assembly.png" width=450>|<img src="/History/img/git_bubble16_assembly.png" width=250>|<img src="/History/img/git_bubble15_assembly.png" width=300>|
 
 
 > #### 초기화 조건
@@ -226,6 +239,12 @@ void swap(int *pA, int *pB)
 <img src="/History/img/git_bubble1.png" width=1000>|
 --|
 <img src="/History/img/git_bubble2.png" width=1000>|
+
+> #### Sort 함수: Main :arrow_right:  Sort, Sort :arrow_right: Main
+
+<img src="/History/img/git_bubble3.png" width=1000>|
+--|
+<img src="/History/img/git_bubble7.png" width=1000>|
 
 
 > #### Swap 함수: Sort :arrow_right: Swap, Swap :arrow_right: Sort
@@ -237,11 +256,6 @@ void swap(int *pA, int *pB)
 
 
 
-> #### Sort 함수: Main :arrow_right:  Sort, Sort :arrow_right: Main
-
-<img src="/History/img/git_bubble3.png" width=1000>|
---|
-<img src="/History/img/git_bubble7.png" width=1000>|
 
 
 
