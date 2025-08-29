@@ -222,7 +222,7 @@ void swap(int *pA, int *pB)
 
 초기화 조건 | 재정렬(Swap) 조건 | Swap function|
 --|--|--
-<img src="/History/img/git_bubble13_assembly.png" width=450>|<img src="/History/img/git_bubble16_assembly.png" width=250>|<img src="/History/img/git_bubble15_assembly.png" width=300>|
+<img src="/History/img/git_bubble13_assembly.png" width=400>|<img src="/History/img/git_bubble16_assembly.png" width=300>|<img src="/History/img/git_bubble15_assembly.png" width=300>|
 
 
 > #### 초기화 조건
