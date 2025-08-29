@@ -55,15 +55,6 @@
 --|
 
 
-|R-Type|L-Type|I-Type|
---|--|--|
-<img src="/History/img/r-block.png" width=600>|<img src="/History/img/l-block.png" width=600>|<img src="/History/img/i-block.png" width=600>|
-|S-Type|B-Type|LU-Type|
-<img src="/History/img/s-block.png" width=600>|<img src="/History/img/b-block.png" width=600>|<img src="/History/img/lu-block.png" width=600>|
-|AU-Type|J-Type|JL-Type|
-<img src="/History/img/au-block.png" width=600>|<img src="/History/img/j-block.png" width=600>|<img src="/History/img/jl-block.png" width=600>|
-
-
 ### (2) Verification
 
 
@@ -256,7 +247,15 @@ void swap(int *pA, int *pB)
 
 
 
-
-
-
 ## Trouble Shooting 
+
+
+#### P. B-type 실행 시 ROM에 넣은 명령어가 출력되지 않음  trouble_shooting3.png
+
+<img src="/History/img/trouble_shooting3.png" width=1000>|
+--|
+
+#### S. PC가 바뀌는 크기에 따라 ROM 번호도 같은 크기로 증가시켜 줌
+
+<img src="/History/img/trouble_shooting4.png" width=1000>|
+--|
